@@ -1,0 +1,25 @@
+{
+  "aeroportApp": {
+    "aeroport": {
+      "home": {
+        "title": "Aeroports",
+        "createLabel": "Créer un nouveau Aeroport",
+        "createOrEditLabel": "Créer ou éditer un Aeroport",
+        "notFound": "Aucun Aeroport trouvé"
+      },
+      "created": "Un nouveau Aeroport a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Aeroport avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Aeroport avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Aeroport {{ id }} ?"
+      },
+      "detail": {
+        "title": "Aeroport"
+      },
+      "name": "Name",
+      "ville": "Ville",
+      "maxAvion": "Max Avion",
+      "avion": "Avion"
+    }
+  }
+}

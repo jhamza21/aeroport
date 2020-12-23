@@ -1,0 +1,25 @@
+{
+  "aeroportApp": {
+    "aeroport": {
+      "home": {
+        "title": "Aeroports",
+        "createLabel": "Create a new Aeroport",
+        "createOrEditLabel": "Create or edit a Aeroport",
+        "notFound": "No Aeroports found"
+      },
+      "created": "A new Aeroport is created with identifier {{ param }}",
+      "updated": "A Aeroport is updated with identifier {{ param }}",
+      "deleted": "A Aeroport is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Aeroport {{ id }}?"
+      },
+      "detail": {
+        "title": "Aeroport"
+      },
+      "name": "Name",
+      "ville": "Ville",
+      "maxAvion": "Max Avion",
+      "avion": "Avion"
+    }
+  }
+}
